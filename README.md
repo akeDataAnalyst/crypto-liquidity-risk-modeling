@@ -1,6 +1,6 @@
 # Exchange Liquidity & Flash-Crash Modeling
 
-
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://crypto-liquidity-risk-modeling-g25jhjxl3e7i3l6gyrb2xk.streamlit.app/)
 
 ## Executive Summary
 In volatile markets, price is an illusion—liquidity is the reality. This project simulates the impact of institutional-scale market orders on the BTC/USDT and ETH/USDT order books across major venues (Binance, Coinbase, Kraken). By identifying "Liquidity Gaps," the system quantifies the risk of a "Flash-Crash"—a rapid, self-reinforcing price collapse triggered by the exhaustion of near-touch depth and the subsequent triggering of leveraged liquidation cascades.
